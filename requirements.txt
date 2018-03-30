@@ -1,6 +1,3 @@
-channels:
-  damianavila82
-  
 jupyter_contrib_nbextensions
 numpy
 scipy
